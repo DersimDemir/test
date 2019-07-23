@@ -1,3 +1,3 @@
-var test = "dies ist ein test 1";
+var test = "dies ist ein test 2";
 
 console.log(test);
